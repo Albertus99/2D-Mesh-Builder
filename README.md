@@ -15,17 +15,17 @@ Properties and Inspector
 
 ![editor](https://i.imgur.com/ZFWbSMj.png)
 
-- **Render Mode** - Chooses to render as Post Effect or just apply blurred texture to UI material.
+- **Vertical and Horizontal symmetry** - Turn on to snap symmetrical points.
 
-- **Kernel Size** - Bigger kernels produces bigger blur, but are more expensive.
+- **Symmetry distance** - The snapping distance of Vertical and Horizontal symmetry.
 
-- **Interpolation** - Use if you want to create smooth blurring transition.
+- **Smooth Factor** - .
 
-- **Downsample** - Controls buffer resolution (0 = no downsampling, 1 = half resolution... etc.).
+- **Snap** - Snapping grid unit size.
 
-- **Iterations** - More iterations = bigger blur, but comes at perfomance cost.
+- **Save Mesh** - Creates unity mesh asset.
 
-- **Gamma Correction** - Enables gamma correction to produce correct blur in Gamma Colorspace. Disable this option if you use Linear Colorspace. 
+- **Save/Import Smart Mesh** - Exports/Imports "Smart Mesh" (.sm) asset. 
 
 Controls
 ----------

@@ -40,3 +40,6 @@ Controls
 
 - **Ctrl+Shift** - Hold both to change center of your shape.
 
+- **B** - Press to build mesh manually.
+
+- **Ctrl+Z** - Also supported (you will need to build the mesh manually after undo, use B).
